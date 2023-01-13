@@ -17,13 +17,13 @@ The problem I was running into, was calculating the number of dashes when the le
 
 After about 5 minutes of Googling to see if someone had a site to do that, I couldn’t find one so I figured I’d build my own.
 
-I added headers and footers:
+Then I decided to make it more robust, so I added the ability to give comments headers and footers:
 ```
 //-------------------//
 //----- Buttons -----//
 //-------------------//
 ```
-as well as the ability to have python comments:
+as well as Python-style comments:
 ```
 #######################
 ### Python Comments ###
@@ -31,7 +31,3 @@ as well as the ability to have python comments:
 ```
 
 If you want to see it in action, you can head over to my website at <a href="https://rochkind.com/SingleLineComments/" target="_blank">https://rochkind.com/SingleLineComments/</a>
-
-
-
- 
